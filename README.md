@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Izayoi18
-- 👀 I’m interested in learning more codes.
+- 👀 I’m interested in learning more.
 - 🌱 I’m currently learning python,css,html,c,c#,c++
-- 💞️ I’m looking to collaborate on easy things cuz Im a noob.
 - 📫 How to reach me in secret.
 
 <!---
